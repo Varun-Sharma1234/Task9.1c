@@ -1,0 +1,32 @@
+.Pagesign_up{
+    border: 2px solid black;
+    width: 40%;
+    max-width: 400px; 
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin:  auto; 
+    padding: 20px; 
+    background-color: rgb(177, 250, 203);
+
+}
+.Header{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+input{
+    text-align: center;
+}
+.Switch{
+    background-color: blue;
+    width:150px;
+    height: 40px;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-weight: 400;
+    margin-left: auto;
+    margin-right: auto;
+}
